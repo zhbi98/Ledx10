@@ -1776,10 +1776,28 @@
 		(uuid "0f397626-b028-4738-8cd4-5d2595e4bd59")
 	)
 	(junction
+		(at 262.89 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0fa311de-6e02-4690-a33f-4665dcd74126")
+	)
+	(junction
 		(at 41.91 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "10523b14-0010-4f8b-9ede-be39e58a0233")
+	)
+	(junction
+		(at 212.09 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "12a76e83-1225-46ec-99ca-62d565f10134")
+	)
+	(junction
+		(at 137.16 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "169fa23d-10ac-4285-9f56-0edd2c42fefa")
 	)
 	(junction
 		(at 212.09 91.44)
@@ -1818,16 +1836,34 @@
 		(uuid "310f590e-2208-4101-bd6f-56e6320e7b9d")
 	)
 	(junction
+		(at 187.96 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "35aedcbb-fdaa-4a29-a4f9-2fcba77f9f05")
+	)
+	(junction
 		(at 106.68 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "43699314-70d9-4ec3-8ae9-164c3c6f8d44")
 	)
 	(junction
+		(at 237.49 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "43cb79e4-6a3e-47f6-82c9-77525b767f41")
+	)
+	(junction
 		(at 176.53 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4594e3f0-a2f7-4f84-b49e-aa4f8ddbca52")
+	)
+	(junction
+		(at 153.67 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f039317-575b-4a1d-8c0e-20b3abc91590")
 	)
 	(junction
 		(at 224.79 86.36)
@@ -1860,6 +1896,12 @@
 		(uuid "6acd022d-bebe-45a4-8ff8-e6dba9ac2447")
 	)
 	(junction
+		(at 176.53 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "72d9767f-8edd-4040-9b95-6ad3bac506a4")
+	)
+	(junction
 		(at 165.1 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1882,6 +1924,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7bed5f76-fc33-4cc6-9da3-dd294661a4f5")
+	)
+	(junction
+		(at 165.1 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c797180-983c-49db-9839-64850ce675a6")
 	)
 	(junction
 		(at 153.67 91.44)
@@ -1926,6 +1974,12 @@
 		(uuid "a296e220-effb-4e9f-b73f-0b79209779fe")
 	)
 	(junction
+		(at 224.79 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a2b7857a-c4a6-4824-9806-862aa33120b8")
+	)
+	(junction
 		(at 262.89 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1968,6 +2022,12 @@
 		(uuid "dbfa5920-7ce5-4b89-bd31-5c9830af1fca")
 	)
 	(junction
+		(at 199.39 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "deb6434b-031c-4393-8b77-bc8b1c3d9b45")
+	)
+	(junction
 		(at 262.89 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1990,6 +2050,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eb1b79e1-3323-4c17-9f30-a1286a10d6ec")
+	)
+	(junction
+		(at 275.59 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee4ffc5b-d4b2-4218-bc06-cf9709463988")
 	)
 	(junction
 		(at 41.91 90.17)
@@ -2016,6 +2082,12 @@
 		(uuid "f3192ee3-517a-4028-bdac-b4226e4cc2ac")
 	)
 	(junction
+		(at 250.19 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f4284bb1-a80e-41cd-b345-24aa188555f8")
+	)
+	(junction
 		(at 81.28 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2026,6 +2098,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f88da15c-6316-4a50-a8f5-b9c08acef276")
+	)
+	(junction
+		(at 137.16 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f9011886-81cc-4771-acb8-cc707e11bf52")
 	)
 	(junction
 		(at 106.68 87.63)
@@ -2042,6 +2120,26 @@
 			(type default)
 		)
 		(uuid "005b44b2-ad03-4ded-97dd-75f292ee2ea7")
+	)
+	(wire
+		(pts
+			(xy 165.1 101.6) (xy 161.29 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01fc0c43-802b-4c2d-8108-fdf2c8042a17")
+	)
+	(wire
+		(pts
+			(xy 215.9 101.6) (xy 212.09 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0219ebf8-dd74-4b8d-bdf3-a3586257f5db")
 	)
 	(wire
 		(pts
@@ -2105,7 +2203,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 110.49) (xy 140.97 110.49)
+			(xy 133.35 110.49) (xy 137.16 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2152,6 +2250,26 @@
 			(type default)
 		)
 		(uuid "0d980619-b575-4b1d-9c53-79e5e1607064")
+	)
+	(wire
+		(pts
+			(xy 190.5 101.6) (xy 187.96 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0eff1aa7-eb70-4ef3-b98a-3058b6ae4d08")
+	)
+	(wire
+		(pts
+			(xy 199.39 101.6) (xy 195.58 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f1573d3-5921-4261-9442-5adf2ecb995a")
 	)
 	(wire
 		(pts
@@ -2225,6 +2343,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 101.6) (xy 199.39 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16cdaf97-6cd6-4133-aac3-d0dea46f5e29")
+	)
+	(wire
+		(pts
 			(xy 96.52 87.63) (xy 97.79 87.63)
 		)
 		(stroke
@@ -2242,6 +2370,16 @@
 			(type default)
 		)
 		(uuid "1874a051-f2ba-4a0e-8fcb-d0974f9584d8")
+	)
+	(wire
+		(pts
+			(xy 137.16 74.93) (xy 137.16 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b46b1f3-637f-4ce6-b9fc-f3631cd85785")
 	)
 	(wire
 		(pts
@@ -2275,6 +2413,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 93.98) (xy 137.16 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24d1d20e-95ae-4046-9a9a-ee5a5c0000d0")
+	)
+	(wire
+		(pts
 			(xy 203.2 86.36) (xy 199.39 86.36)
 		)
 		(stroke
@@ -2285,6 +2433,16 @@
 	)
 	(wire
 		(pts
+			(xy 203.2 101.6) (xy 199.39 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27e2a1be-3808-45c4-b7b5-7a918486602a")
+	)
+	(wire
+		(pts
 			(xy 212.09 86.36) (xy 208.28 86.36)
 		)
 		(stroke
@@ -2292,6 +2450,16 @@
 			(type default)
 		)
 		(uuid "292ad68c-af0d-4a9a-9e4d-289ecc5ef153")
+	)
+	(wire
+		(pts
+			(xy 241.3 101.6) (xy 237.49 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2940cc91-df41-4b3b-8a73-377a4b6b0571")
 	)
 	(wire
 		(pts
@@ -2355,6 +2523,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 101.6) (xy 250.19 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31d41250-ba27-4eb6-b4e5-ccac6b760167")
+	)
+	(wire
+		(pts
 			(xy 262.89 91.44) (xy 262.89 86.36)
 		)
 		(stroke
@@ -2405,6 +2583,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 101.6) (xy 208.28 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38092077-bd41-4f0d-82f6-02d845e6d530")
+	)
+	(wire
+		(pts
 			(xy 212.09 91.44) (xy 212.09 86.36)
 		)
 		(stroke
@@ -2442,6 +2630,16 @@
 			(type default)
 		)
 		(uuid "3c8f3e70-c5d5-4d0d-b7b5-76d506435bb6")
+	)
+	(wire
+		(pts
+			(xy 153.67 96.52) (xy 153.67 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ff66342-4fb5-4eb3-8401-a6664d81a6ab")
 	)
 	(wire
 		(pts
@@ -2485,6 +2683,16 @@
 	)
 	(wire
 		(pts
+			(xy 266.7 101.6) (xy 262.89 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c820d45-85c7-4935-bd73-8e0857c4e7e6")
+	)
+	(wire
+		(pts
 			(xy 275.59 91.44) (xy 275.59 86.36)
 		)
 		(stroke
@@ -2512,6 +2720,16 @@
 			(type default)
 		)
 		(uuid "50293e14-f205-4dec-a436-f9df880d68be")
+	)
+	(wire
+		(pts
+			(xy 187.96 101.6) (xy 187.96 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52389ba3-28af-4098-ac65-66abd0e4f16d")
 	)
 	(wire
 		(pts
@@ -2552,6 +2770,16 @@
 			(type default)
 		)
 		(uuid "5f143779-7edc-4219-9ea9-c999eabb141f")
+	)
+	(wire
+		(pts
+			(xy 237.49 101.6) (xy 233.68 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f5f079a-a92f-41a9-a076-d44fcc0dab33")
 	)
 	(wire
 		(pts
@@ -2685,6 +2913,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 101.6) (xy 176.53 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d490f7a-6b37-41d6-90c5-ccff60b6c605")
+	)
+	(wire
+		(pts
 			(xy 179.07 86.36) (xy 176.53 86.36)
 		)
 		(stroke
@@ -2712,6 +2950,16 @@
 			(type default)
 		)
 		(uuid "708a6535-01ad-4ef7-9077-7459a4785a56")
+	)
+	(wire
+		(pts
+			(xy 262.89 101.6) (xy 259.08 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "732be396-a893-4aad-96a8-7d41dce71eb0")
 	)
 	(wire
 		(pts
@@ -2802,6 +3050,26 @@
 			(type default)
 		)
 		(uuid "7cceed75-9129-43e6-9b14-885f4507d21c")
+	)
+	(wire
+		(pts
+			(xy 176.53 101.6) (xy 172.72 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f107894-ae94-41fb-bf72-5a2aa57a7df7")
+	)
+	(wire
+		(pts
+			(xy 165.1 101.6) (xy 165.1 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f36b4ff-de8a-4377-8820-77294313e5c3")
 	)
 	(wire
 		(pts
@@ -2965,7 +3233,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 74.93) (xy 140.97 74.93)
+			(xy 133.35 74.93) (xy 137.16 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2995,6 +3263,16 @@
 	)
 	(wire
 		(pts
+			(xy 262.89 101.6) (xy 262.89 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ad00148-1f71-4025-8eb6-57e9d7da3308")
+	)
+	(wire
+		(pts
 			(xy 250.19 86.36) (xy 246.38 86.36)
 		)
 		(stroke
@@ -3002,6 +3280,16 @@
 			(type default)
 		)
 		(uuid "9b29427c-5744-465b-a571-e43c6cebe9cf")
+	)
+	(wire
+		(pts
+			(xy 275.59 101.6) (xy 275.59 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b62e751-8461-4b76-b52b-129b8eac6972")
 	)
 	(wire
 		(pts
@@ -3075,6 +3363,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 101.6) (xy 153.67 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3bb5495-e652-4c73-9dc3-71aa4a49218b")
+	)
+	(wire
+		(pts
 			(xy 100.33 92.71) (xy 100.33 95.25)
 		)
 		(stroke
@@ -3132,6 +3430,16 @@
 			(type default)
 		)
 		(uuid "af99fd68-1c79-47b8-9c1c-860f1361983f")
+	)
+	(wire
+		(pts
+			(xy 137.16 110.49) (xy 142.24 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "afb2f1b1-57d6-4b80-b936-a6ac2b439820")
 	)
 	(wire
 		(pts
@@ -3205,6 +3513,36 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 74.93) (xy 142.24 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbed372d-9f95-4f42-b574-87b11f24f4b5")
+	)
+	(wire
+		(pts
+			(xy 250.19 101.6) (xy 246.38 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc9fa030-4a9d-42a9-ba6b-9c3771cb25ca")
+	)
+	(wire
+		(pts
+			(xy 224.79 101.6) (xy 224.79 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bddc576d-6f33-4ae0-a6d9-5b4c633ddee6")
+	)
+	(wire
+		(pts
 			(xy 64.77 87.63) (xy 66.04 87.63)
 		)
 		(stroke
@@ -3245,6 +3583,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 101.6) (xy 212.09 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5bad80a-1862-4b75-8ac3-27b83e6ceaa2")
+	)
+	(wire
+		(pts
 			(xy 133.35 93.98) (xy 133.35 110.49)
 		)
 		(stroke
@@ -3282,6 +3630,26 @@
 			(type default)
 		)
 		(uuid "ca493254-273e-49a9-b61e-92ae2c084691")
+	)
+	(wire
+		(pts
+			(xy 250.19 101.6) (xy 250.19 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca86cc3e-9e1f-4fff-8d9f-691fcebebbe6")
+	)
+	(wire
+		(pts
+			(xy 228.6 101.6) (xy 224.79 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb16acd9-907f-41f1-b83e-52f29398b5bd")
 	)
 	(wire
 		(pts
@@ -3375,6 +3743,16 @@
 	)
 	(wire
 		(pts
+			(xy 275.59 101.6) (xy 271.78 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d52674fb-aa2f-4277-b55a-db50c673c740")
+	)
+	(wire
+		(pts
 			(xy 280.67 91.44) (xy 275.59 91.44)
 		)
 		(stroke
@@ -3392,6 +3770,16 @@
 			(type default)
 		)
 		(uuid "d5ee4753-92cd-41e4-a16b-e4370ffd3ba6")
+	)
+	(wire
+		(pts
+			(xy 187.96 101.6) (xy 184.15 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6fab267-1fd3-40d8-a4eb-6f78dd696f11")
 	)
 	(wire
 		(pts
@@ -3495,6 +3883,16 @@
 	)
 	(wire
 		(pts
+			(xy 167.64 101.6) (xy 165.1 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5b88948-9c07-4326-91ca-662854a3ac09")
+	)
+	(wire
+		(pts
 			(xy 224.79 96.52) (xy 224.79 91.44)
 		)
 		(stroke
@@ -3595,6 +3993,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 101.6) (xy 237.49 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9f7a5ca-ecef-4a45-9304-c7df95a6c8f0")
+	)
+	(wire
+		(pts
 			(xy 81.28 110.49) (xy 97.79 110.49)
 		)
 		(stroke
@@ -3602,6 +4010,16 @@
 			(type default)
 		)
 		(uuid "fc55754c-4e75-40e2-9dcf-82e283f2fcc1")
+	)
+	(wire
+		(pts
+			(xy 224.79 101.6) (xy 220.98 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc5df114-1df4-4f76-9093-b27113b952d9")
 	)
 	(wire
 		(pts
@@ -3613,8 +4031,18 @@
 		)
 		(uuid "fcaecf26-5bd4-4d6d-b3a4-41c55df8ba16")
 	)
+	(wire
+		(pts
+			(xy 179.07 101.6) (xy 176.53 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fda37334-395c-40cc-9ba3-2664da578506")
+	)
 	(label "LED+"
-		(at 140.97 74.93 180)
+		(at 142.24 74.93 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3644,7 +4072,7 @@
 		(uuid "da4d458f-b507-4af0-bd32-c10f815d95d0")
 	)
 	(label "LED-"
-		(at 140.97 110.49 180)
+		(at 142.24 110.49 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3652,6 +4080,82 @@
 			(justify right bottom)
 		)
 		(uuid "de2694bb-787c-4b49-9818-2e87772bd33c")
+	)
+	(symbol
+		(lib_id "Device:LED_Small")
+		(at 218.44 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "077c54c1-a6a8-4ff6-a7e8-3d35b28ba15d")
+		(property "Reference" "D38"
+			(at 218.44 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5730D34W"
+			(at 218.44 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "3rd_LED_SMD:LED5730_2012Metric"
+			(at 218.44 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 218.44 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode, small symbol"
+			(at 218.44 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" "1=K 2=A"
+			(at 218.44 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fd111813-d0f0-4414-b1e9-c9853b1129c4")
+		)
+		(pin "2"
+			(uuid "bf5fbc29-4d45-4d99-ae55-18fcd18ac50d")
+		)
+		(instances
+			(project "Ledx10"
+				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
+					(reference "D38")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:D_Zener_Small")
@@ -3923,6 +4427,82 @@
 			(project "DriverLed"
 				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
 					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Small")
+		(at 170.18 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "10c2578d-3dbc-4531-b3a8-fca9a5e6f4bf")
+		(property "Reference" "D34"
+			(at 170.18 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5730D34W"
+			(at 170.18 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "3rd_LED_SMD:LED5730_2012Metric"
+			(at 170.18 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 170.18 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode, small symbol"
+			(at 170.18 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" "1=K 2=A"
+			(at 170.18 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a4a501d5-86f7-4d62-b585-f8e48f77fd44")
+		)
+		(pin "2"
+			(uuid "c6e31a86-66f3-433c-bf42-3be25bf9ce1a")
+		)
+		(instances
+			(project "Ledx10"
+				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -4341,7 +4921,7 @@
 				)
 			)
 		)
-		(property "Value" "1000mR"
+		(property "Value" "500mR"
 			(at 118.364 72.39 90)
 			(effects
 				(font
@@ -5263,6 +5843,82 @@
 			(project "DriverLed"
 				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
 					(reference "D32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Small")
+		(at 231.14 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "65b13c0f-9f09-476f-9ad5-86281297ff8d")
+		(property "Reference" "D39"
+			(at 231.14 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5730D34W"
+			(at 231.14 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "3rd_LED_SMD:LED5730_2012Metric"
+			(at 231.14 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode, small symbol"
+			(at 231.14 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" "1=K 2=A"
+			(at 231.14 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "450cdf53-1f57-44c5-b057-6a48e0b052d6")
+		)
+		(pin "2"
+			(uuid "b6022c04-7d4f-4c8d-973f-1efda43e36ce")
+		)
+		(instances
+			(project "Ledx10"
+				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -6451,6 +7107,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED_Small")
+		(at 256.54 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b90a8f37-f42f-4c5f-9fb0-783dc9d30e45")
+		(property "Reference" "D41"
+			(at 256.54 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5730D34W"
+			(at 256.54 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "3rd_LED_SMD:LED5730_2012Metric"
+			(at 256.54 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 256.54 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode, small symbol"
+			(at 256.54 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" "1=K 2=A"
+			(at 256.54 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "683cb306-5df7-44e2-95e1-6ddd71ca59bf")
+		)
+		(pin "2"
+			(uuid "af4ba422-610f-4731-acb6-a9fad90d026d")
+		)
+		(instances
+			(project "Ledx10"
+				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
+					(reference "D41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small_US")
 		(at 60.96 78.74 0)
 		(unit 1)
@@ -6596,6 +7328,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED_Small")
+		(at 181.61 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bce11784-6a10-4834-9696-a46527a2b947")
+		(property "Reference" "D35"
+			(at 181.61 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5730D34W"
+			(at 181.61 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "3rd_LED_SMD:LED5730_2012Metric"
+			(at 181.61 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 181.61 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode, small symbol"
+			(at 181.61 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" "1=K 2=A"
+			(at 181.61 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "823709ab-e24e-453f-981e-0b82a484de56")
+		)
+		(pin "2"
+			(uuid "6e5fb281-e2f9-41b3-97be-2ce993753139")
+		)
+		(instances
+			(project "Ledx10"
+				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
+					(reference "D35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 41.91 101.6 180)
 		(unit 1)
@@ -6687,7 +7495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_1206_3216Metric"
+		(property "Footprint" "Inductor_SMD:L_Taiyo-Yuden_MD-3030"
 			(at 81.28 74.93 0)
 			(effects
 				(font
@@ -6806,7 +7614,7 @@
 		(dnp no)
 		(uuid "d33c0c25-9e9c-495d-a652-7c4eab7ea0ee")
 		(property "Reference" "C9"
-			(at 138.684 93.472 0)
+			(at 133.096 85.344 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6814,7 +7622,7 @@
 			)
 		)
 		(property "Value" "10uF,100V"
-			(at 138.938 95.25 0)
+			(at 133.35 87.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7007,7 +7815,7 @@
 		(dnp no)
 		(uuid "d9e7cb8d-c29f-49e7-9f35-5d87e6c9ec00")
 		(property "Reference" "C8"
-			(at 126.492 93.726 0)
+			(at 128.27 93.472 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7015,7 +7823,7 @@
 			)
 		)
 		(property "Value" "0.1uF,100V"
-			(at 126.746 95.504 0)
+			(at 128.524 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7059,6 +7867,82 @@
 			(project "DriverLed"
 				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
 					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Small")
+		(at 205.74 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "da1fa51f-54eb-4060-b599-9e47cc8ee9cf")
+		(property "Reference" "D37"
+			(at 205.74 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5730D34W"
+			(at 205.74 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "3rd_LED_SMD:LED5730_2012Metric"
+			(at 205.74 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 205.74 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode, small symbol"
+			(at 205.74 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" "1=K 2=A"
+			(at 205.74 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c953901d-376a-4bd0-8d9f-69f45dee60d1")
+		)
+		(pin "2"
+			(uuid "01461751-8cae-4c2a-9c4d-338aa0579b6d")
+		)
+		(instances
+			(project "Ledx10"
+				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -7202,6 +8086,82 @@
 			(project "DriverLed"
 				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
 					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Small")
+		(at 193.04 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e98092da-1213-4931-93c4-4dc8450daa1a")
+		(property "Reference" "D36"
+			(at 193.04 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5730D34W"
+			(at 193.04 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "3rd_LED_SMD:LED5730_2012Metric"
+			(at 193.04 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 193.04 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode, small symbol"
+			(at 193.04 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" "1=K 2=A"
+			(at 193.04 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eba6846a-9494-43b1-8fdb-6c24404ec6b7")
+		)
+		(pin "2"
+			(uuid "497aac2e-9ac0-4611-ae57-c269e3cbcd96")
+		)
+		(instances
+			(project "Ledx10"
+				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -7409,6 +8369,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED_Small")
+		(at 243.84 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f443e252-a64a-471f-90fd-580eb51021c9")
+		(property "Reference" "D40"
+			(at 243.84 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5730D34W"
+			(at 243.84 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "3rd_LED_SMD:LED5730_2012Metric"
+			(at 243.84 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 243.84 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode, small symbol"
+			(at 243.84 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" "1=K 2=A"
+			(at 243.84 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "16e0cddc-fe4a-4bf3-bfed-e950826be2a3")
+		)
+		(pin "2"
+			(uuid "fac3a39a-9f77-4c0d-a92a-656264c352a6")
+		)
+		(instances
+			(project "Ledx10"
+				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
+					(reference "D40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D_Zener_Small")
 		(at 256.54 91.44 180)
 		(unit 1)
@@ -7470,6 +8506,225 @@
 			(project "DriverLed"
 				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
 					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Small")
+		(at 158.75 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fd4b63f0-a8eb-4e63-99f8-db7fc8e07c4b")
+		(property "Reference" "D33"
+			(at 158.75 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5730D34W"
+			(at 158.75 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "3rd_LED_SMD:LED5730_2012Metric"
+			(at 158.75 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode, small symbol"
+			(at 158.75 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" "1=K 2=A"
+			(at 158.75 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c831a172-f45b-45d4-ada0-e04d8fe9ede3")
+		)
+		(pin "2"
+			(uuid "37474521-f6ad-4a62-9593-4dfa2181b1c9")
+		)
+		(instances
+			(project "Ledx10"
+				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
+					(reference "D33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 137.16 91.44 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fd81c6c9-4ed9-450b-a243-29fb4d30a36f")
+		(property "Reference" "C10"
+			(at 139.192 93.472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF,100V"
+			(at 142.24 95.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 137.16 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 137.16 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 137.16 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7c74f62a-38bb-4c6b-b876-6e4e42bb2431")
+		)
+		(pin "1"
+			(uuid "332cfa89-98e3-4c32-8800-dd2cc31d2cb1")
+		)
+		(instances
+			(project "Ledx10"
+				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Small")
+		(at 269.24 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fe638f55-2fd5-4669-8d0e-802e9f12b079")
+		(property "Reference" "D42"
+			(at 269.24 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5730D34W"
+			(at 269.24 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "3rd_LED_SMD:LED5730_2012Metric"
+			(at 269.24 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 269.24 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode, small symbol"
+			(at 269.24 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" "1=K 2=A"
+			(at 269.24 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fd4f1f1c-f9aa-4d90-bbfe-a101d0ea6fb3")
+		)
+		(pin "2"
+			(uuid "679806f7-1bd1-4b9f-8d1f-816fc53edd7c")
+		)
+		(instances
+			(project "Ledx10"
+				(path "/a1100fb3-9bb1-4a7b-859f-32d730218ced"
+					(reference "D42")
 					(unit 1)
 				)
 			)
