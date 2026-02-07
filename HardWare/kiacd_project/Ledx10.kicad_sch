@@ -7487,7 +7487,7 @@
 				)
 			)
 		)
-		(property "Value" "SCL3216T330KSP,33uH"
+		(property "Value" "SMMS0650-680M,68uH"
 			(at 81.28 72.39 90)
 			(effects
 				(font
@@ -7495,7 +7495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Taiyo-Yuden_MD-3030"
+		(property "Footprint" "Inductor_SMD:L_6.3x6.3_H3"
 			(at 81.28 74.93 0)
 			(effects
 				(font
@@ -7629,7 +7629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 133.35 91.44 0)
 			(effects
 				(font
@@ -8612,7 +8612,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 137.16 91.44 0)
 			(effects
 				(font
